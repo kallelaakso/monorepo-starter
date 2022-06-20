@@ -1,0 +1,12 @@
+{
+  "name": "e2e",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "cypress": "cypress open",
+    "cypress:headless": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "10.1.0"
+  }
+}
