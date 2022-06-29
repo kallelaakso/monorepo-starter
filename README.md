@@ -1,6 +1,7 @@
 # Turborepo monorepo starter with pnpm
 
-This is a monorepo starter repository for a web application use. It's not perfect, I made it for my use.
+This is a monorepo starter repository for a web application use. It's not perfect, I made it for my use. Right now, it feels this 
+is how I would like to start my web application project. Subject to change though. ;)
 
 ## Components
 
@@ -50,4 +51,4 @@ $ pnpm run dev
 
 ## Contact me
 
-Any questions regarding this repository? Feel free to contact me, please leave an issue here on Github or contact me via email hello@kallelaakso.eu.
+Any questions regarding this repository? Feel free to contact me, please leave an issue here on Github or drop me a message by email hello@kallelaakso.eu.
